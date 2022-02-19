@@ -1,0 +1,31 @@
+body {
+    font: 20px arial, sans-serif;
+}
+.navbar {
+    background-color: hsl(133, 100%, 44%);
+}
+
+.quem-somos {
+    background-color: rgb(118, 118, 238);
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #81F7D8;
+}
+
+
+/*Edições pós aulas*/
+
+.serviços {
+    padding-top: 100px;
+}
+
+.texto{
+    padding-top: 50px;
+}
